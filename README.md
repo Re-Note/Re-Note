@@ -11,7 +11,7 @@
 🎳 About Me 🎳
 <a href="링크주소"><img src="https://img.shields.io/badge/로고이름-색상코드?style=flat&logo=로고이름&logoColor=white&link=링크주소"/></a>
 <a href="링크주소"><img src="https://img.shields.io/badge/로고이름-색상코드?style=flat&logo=로고이름&logoColor=white&link=링크주소"/></a>
-<a href="링크주소"><img src="https://img.shields.io/badge/로고이름-색상코드?style=flat&logo=로고이름&logoColor=white&link=링크주소"/></a>
+<a href="gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=gmail.com"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Re-Note)](https://github.com/Re-Note/github-readme-stats)
 
